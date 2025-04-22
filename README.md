@@ -1,9 +1,5 @@
 # Lapse
 
-<p align="center">
-  <img src="https://via.placeholder.com/150?text=Lapse" alt="Lapse Logo" width="150" height="150">
-</p>
-
 ## Your day, redesigned daily.
 
 Lapse is a neurodivergent-friendly productivity app designed to help users manage their time effectively with personalized scheduling, AI assistance, and rewarding progress tracking.
@@ -17,12 +13,6 @@ Lapse is a neurodivergent-friendly productivity app designed to help users manag
 - **Neurodivergent-Focused Design**: UI/UX designed specifically for neurodivergent users
 
 ## Screenshots
-
-<p align="center">
-  <img src="https://via.placeholder.com/200x400?text=Onboarding" alt="Onboarding Screen" width="200">
-  <img src="https://via.placeholder.com/200x400?text=Calendar" alt="Calendar Screen" width="200">
-  <img src="https://via.placeholder.com/200x400?text=AI+Assistant" alt="AI Assistant Screen" width="200">
-</p>
 
 ## Technology Stack
 
