@@ -1,28 +1,30 @@
 {
   "expo": {
     "name": "Lapse",
-    "slug": "Lapse",
+    "slug": "lapse",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
-    "newArchEnabled": true,
     "splash": {
-      "image": "./assets/splash-icon.png",
-      "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "ios": {
-      "supportsTablet": true
-    },
-    "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+      "supportsTablet": true,
+      "bundleIdentifier": "com.lapse.app",
+      "config": {
+        "usesNonExemptEncryption": false
       }
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "scheme": "com.lapse.app",
+    "extra": {
+      "googleClientId": "685052568523-v0vv2u3ktjmt32f4fm9a55o92ncrrjd1.apps.googleusercontent.com"
     }
   }
 }
