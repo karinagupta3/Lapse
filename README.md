@@ -12,8 +12,6 @@ Lapse is a neurodivergent-friendly productivity app designed to help users manag
 - **Points & Achievements**: Earn points and unlock achievements as you complete tasks
 - **Neurodivergent-Focused Design**: UI/UX designed specifically for neurodivergent users
 
-## Screenshots
-
 ## Technology Stack
 
 - **React Native**: Cross-platform mobile development
